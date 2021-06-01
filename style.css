@@ -71,8 +71,8 @@ header .img-container img {
 
 header .img-container .main-title {
   position: absolute;
-  left: 45%;
-  bottom: 20%;
+  right: 5%;
+  bottom: 5%;
   font-style: italic;
   color: #fff;
   line-height: 1.4;
